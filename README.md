@@ -4,7 +4,7 @@
 
 <br>
 
-This repository provides the curriculum overview for **[The Complete Python Programming Course by Yodo.me](https://yodo.me/eng/python)**. It's designed for anyone tired of fragmented tutorials and looking for a structured, hands-on learning experience that leads to real results.
+This repository provides the curriculum overview for **[The Complete Python Programming Course by Yodo.me](https://yodo.me/eng/python?utm_source=github&utm_medium=readme&utm_campaign=python_promo&utm_content=intro_link)**. It's designed for anyone tired of fragmented tutorials and looking for a structured, hands-on learning experience that leads to real results.
 
 ## 🤔 Why Choose This Course?
 
@@ -72,4 +72,4 @@ Dive deep into the most in-demand fields in tech by building portfolio-worthy pr
 
 Stop jumping between tutorials and commit to a single, comprehensive path that will give you the skills and the portfolio to achieve your goals.
 
-### **[➡️ Enroll Now and Try the First Lesson for Free!](https://yodo.me/eng/python)**
+### **[➡️ Enroll Now and Try the First Lesson for Free!](https://yodo.me/eng/python?utm_source=github&utm_medium=readme&utm_campaign=python_promo&utm_content=cta_link)**
